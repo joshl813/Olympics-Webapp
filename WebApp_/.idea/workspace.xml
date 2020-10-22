@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b775e492-4df1-4e45-95f5-635d37befbf1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1iDvuf5jtOgemQ0BcBX6L5YXFZD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.data.extractors.current.export.id" value="Comma-separated (CSV)_id" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.FrontEnd.php">
+    <configuration name="FrontEnd.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/DataBaseProject/FrontEnd.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="BackEnd.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/BackEnd.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="Battle.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Battle.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="BestAthleteQuery.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/BestAthleteQuery.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="FrontEnd.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/FrontEnd.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="InsertQuery.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/InsertQuery.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.FrontEnd.php" />
+        <item itemvalue="PHP Script.Battle.php" />
+        <item itemvalue="PHP Script.FrontEnd.php" />
+        <item itemvalue="PHP Script.InsertQuery.php" />
+        <item itemvalue="PHP Script.BestAthleteQuery.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b775e492-4df1-4e45-95f5-635d37befbf1" name="Default Changelist" comment="" />
+      <created>1601455202419</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601455202419</updated>
+      <workItem from="1601455204512" duration="4420000" />
+      <workItem from="1602144930177" duration="2969000" />
+      <workItem from="1602399275358" duration="3797000" />
+      <workItem from="1602412780833" duration="566000" />
+      <workItem from="1602413735892" duration="316000" />
+      <workItem from="1602414649524" duration="351000" />
+      <workItem from="1602415528731" duration="323000" />
+      <workItem from="1602416336432" duration="5267000" />
+      <workItem from="1602434561808" duration="17615000" />
+      <workItem from="1602587991380" duration="114000" />
+      <workItem from="1602588109879" duration="35000" />
+      <workItem from="1602588148984" duration="1504000" />
+      <workItem from="1602600315400" duration="7566000" />
+      <workItem from="1546330088076" duration="1420000" />
+      <workItem from="1546300915411" duration="220000" />
+      <workItem from="1603111907084" duration="90000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="308" y="112" key="#CLI_Interpreters" timestamp="1602417013454">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="308" y="112" key="#CLI_Interpreters/0.0.1440.900@0.0.1440.900" timestamp="1602417013454" />
+    <state x="320" y="115" key="#Deployment" timestamp="1602413535737">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#Deployment/0.0.1440.900@0.0.1440.900" timestamp="1602413535737" />
+    <state x="462" y="281" key="#Notifications" timestamp="1602413215222">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="462" y="281" key="#Notifications/0.0.1440.900@0.0.1440.900" timestamp="1602413215222" />
+    <state x="412" y="100" key="#PHP" timestamp="1602417016259">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="412" y="100" key="#PHP/0.0.1440.900@0.0.1440.900" timestamp="1602417016259" />
+    <state x="320" y="115" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602496552231">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1602496552231" />
+    <state x="465" y="253" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602434655105">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="465" y="253" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1602434655105" />
+    <state x="465" y="270" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877@0.23.1440.877" timestamp="1601455269169" />
+    <state x="464" y="324" key="ComposerInitDialogKey" timestamp="1602413993233">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="464" y="324" key="ComposerInitDialogKey/0.0.1440.900@0.0.1440.900" timestamp="1602413993233" />
+    <state width="1398" height="304" key="GridCell.Tab.0.bottom" timestamp="1602670722976">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1602670722976" />
+    <state width="1398" height="304" key="GridCell.Tab.0.center" timestamp="1602670722974">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1602670722974" />
+    <state width="1398" height="304" key="GridCell.Tab.0.left" timestamp="1602670722974">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1602670722974" />
+    <state width="1398" height="304" key="GridCell.Tab.0.right" timestamp="1602670722975">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1602670722975" />
+    <state width="221" height="457" key="HiddenNamespacesPopup" timestamp="1602147394235">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="221" height="457" key="HiddenNamespacesPopup/0.0.1440.900@0.0.1440.900" timestamp="1602147394235" />
+    <state x="543" y="380" key="NewPhpFileDialog" timestamp="1602613175149">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="543" y="380" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1602613175149" />
+    <state x="229" y="89" key="SettingsEditor" timestamp="1602416895591">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1602416895591" />
+    <state x="308" y="123" key="com.intellij.database.dbimport.ImportDialog" timestamp="1602147626306">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="308" y="123" key="com.intellij.database.dbimport.ImportDialog/0.0.1440.900@0.0.1440.900" timestamp="1602147626306" />
+    <state x="589" y="195" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1602147513684">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="589" y="195" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1440.900@0.0.1440.900" timestamp="1602147513684" />
+    <state x="269" y="186" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1602421013817">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="269" y="186" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1440.900@0.0.1440.900" timestamp="1602421013817" />
+  </component>
+</project>
